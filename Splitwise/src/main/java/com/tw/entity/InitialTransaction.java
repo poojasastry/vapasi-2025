@@ -1,4 +1,4 @@
-package com.tw;
+package com.tw.entity;
 
 public class InitialTransaction {
     String payerName;
